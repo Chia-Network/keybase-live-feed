@@ -1,6 +1,19 @@
 Keybase Live Feed
 =================
 
+Overview
+--------
+
+Backend and frontend services for showing the contents of a Keybase team on your website. It looks like this:
+
+![Screenshot of Chia community page with Keybase Live Feed integrated](screenshot.png)
+
+(from [Chia Network](https://www.chia.net/community/))
+
+Backend built with Node.js, Socket.IO, and Keybase. Deployed on AWS EC2 Debian. Alternatively: Docker/Kubernetes on Google Cloud with Cloud Load Balancing.
+
+Frontend built with React, React-Markdown, Bootstrap, Socket.IO, and Socket.IO.
+
 Deployment on Debian on AWS EC2
 -------------------------------
 
