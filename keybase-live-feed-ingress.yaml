@@ -1,0 +1,8 @@
+apiVersion: extensions/v1beta1
+kind: Ingress
+metadata:
+  name: keybase-live-feed-ingress
+spec:
+  backend:
+    serviceName: keybase-live-feed
+    servicePort: 4000

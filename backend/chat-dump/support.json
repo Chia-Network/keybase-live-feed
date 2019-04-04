@@ -1,0 +1,3648 @@
+{
+    "result": {
+        "messages": [
+            {
+                "msg": {
+                    "id": 292,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "4a1b05eb5cb30bfcfaced5d0b409b419",
+                        "username": "chiachatbot",
+                        "device_id": "b8bbbe599afff0cc0f68ba9e4733b718",
+                        "device_name": "margin occur"
+                    },
+                    "sent_at": 1553047710,
+                    "sent_at_ms": 1553047710132,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 291,
+                            "hash": "BtrkeAoGbshH+HHng7TFyDMej0xBlwE6gs1xdRhKA3Y="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 291,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "75525c134265b0c2389218bc19861200",
+                        "username": "dave",
+                        "device_id": "a6e3ad0e6e3168e0d7969043819b9f18",
+                        "device_name": "macos-mojave-2_dave-rmbp"
+                    },
+                    "sent_at": 1552347074,
+                    "sent_at_ms": 1552347074027,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 290,
+                            "hash": "fKSysv9/K77ahCw4j7qdFcalp1DGcdNcCyUo1/7Nmag="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 290,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "66ee2fabe68fba65786734d83cb16a19",
+                        "username": "menkent",
+                        "device_id": "89a15ef6005130178d26a16f7052fd18",
+                        "device_name": "Mi ordenador"
+                    },
+                    "sent_at": 1551551686,
+                    "sent_at_ms": 1551551686028,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 289,
+                            "hash": "OYuhrYQx7suviYfBBAcNS6dBEdtqtBWYNQmf1BdsTI0="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 289,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "8d830e6066c715ee165a4e4d29256619",
+                        "username": "dxiri",
+                        "device_id": "a8ac62701e72d60b015f8cdf1664bd18",
+                        "device_name": "My Mac Device"
+                    },
+                    "sent_at": 1551370755,
+                    "sent_at_ms": 1551370755137,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 288,
+                            "hash": "a+Rd+InSCM2KThG4+Z++VnQ/m/JGJUcxvyF4EknILck="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 288,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "0eafa5a2f8bea6860ef0dce2a08b4a19",
+                        "username": "devrandom01",
+                        "device_id": "d3f38a301efc294ad7d3651cb6f5b618",
+                        "device_name": "main"
+                    },
+                    "sent_at": 1550967420,
+                    "sent_at_ms": 1550967420922,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 287,
+                            "hash": "uzUnIu9g/3H25IL7gp7L779oEDDa0pcb3iG9FCCdlpg="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 287,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "3bb2c9f4a24992c7722bf26598934d19",
+                        "username": "lbisio",
+                        "device_id": "c1d29b6f3f0b51f3b46b40d324bdba18",
+                        "device_name": "Laura B"
+                    },
+                    "sent_at": 1550011902,
+                    "sent_at_ms": 1550011902008,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 286,
+                            "hash": "/LaPWYltHEuHEHyD0B9nvbqwDq0YHkXBrNwHavglyYE="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 286,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "47cae955e41950ca5382968c2a331219",
+                        "username": "ashadle",
+                        "device_id": "d7043a54fe827401a8882ad39880fc18",
+                        "device_name": "work computer"
+                    },
+                    "sent_at": 1550011822,
+                    "sent_at_ms": 1550011822131,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "@lbisio",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 285,
+                            "hash": "LYJ98o6tNQaclUBCjBlEWuxxHmTjsW7EYGgBlDL1V90="
+                        }
+                    ],
+                    "unread": false,
+                    "at_mention_usernames": [
+                        "lbisio"
+                    ],
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 285,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "e3ac795bf8c4595d43c1b0945c2f2719",
+                        "username": "dauntal",
+                        "device_id": "ce1a9dd7b6077ba728083097c5ec0818",
+                        "device_name": "my_pc"
+                    },
+                    "sent_at": 1549586922,
+                    "sent_at_ms": 1549586922743,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 284,
+                            "hash": "fKfqoaFb8aZ2aSSuU2Eea5Fn3e1ytMKasnPHK/O3AGA="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 284,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "aabd965163cdc474d64a257a86c55719",
+                        "username": "gleicol",
+                        "device_id": "fe77c2b08895603eebe467d0ed942718",
+                        "device_name": "devicee"
+                    },
+                    "sent_at": 1549468547,
+                    "sent_at_ms": 1549468547635,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 283,
+                            "hash": "0kxGLt45tsrvJ/LGEVPJBU/zTufWxDAPhhUhh80To34="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 283,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "1bb440f299a86ceacadd9c2a77d97b19",
+                        "username": "irieman",
+                        "device_id": "d1d84b0e8e9eebbaea8e0376c1076918",
+                        "device_name": "pixel XL"
+                    },
+                    "sent_at": 1548869413,
+                    "sent_at_ms": 1548869413980,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 282,
+                            "hash": "ZFey/Hc3yZ4bMHnVWv8iS2DuaaNnWpp3xyXL4nB//5s="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 282,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "87a92a9bd758244dc0ce182a3d435e19",
+                        "username": "techaspirer",
+                        "device_id": "1eb93d45a3ba0499b3c0e3a8b469d518",
+                        "device_name": "Desktop"
+                    },
+                    "sent_at": 1547306095,
+                    "sent_at_ms": 1547306095068,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 281,
+                            "hash": "DvZ1dUmtrez66TaSbuKwiea8l/CqNvC49ZtKKxUJCL8="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 281,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "a79f7b3e2032c5f99cb36eb2719fed19",
+                        "username": "ejpsa",
+                        "device_id": "c7a88003a9d9c507177d2552b239f818",
+                        "device_name": "laptop2"
+                    },
+                    "sent_at": 1545504384,
+                    "sent_at_ms": 1545504384585,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 280,
+                            "hash": "hpy4VZY2fshh+S/UgNFI9meFWX468d41cew4Il9+duw="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 280,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "045b2a1d93aebe2ebf2f8f8235ca7319",
+                        "username": "rudolf333",
+                        "device_id": "4cb0cd6df6fa1dbd90c5b804e194bc18",
+                        "device_name": "Dev"
+                    },
+                    "sent_at": 1545443450,
+                    "sent_at_ms": 1545443450550,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 279,
+                            "hash": "fsqltMlQt93C+H5HOZ80PWDsemclAX71I91kbhq4Tfg="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 279,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "0c2383e04e95b149ece9756961f72c19",
+                        "username": "avive",
+                        "device_id": "78c6cf8ed9d1668fd1519dd292cd8e18",
+                        "device_name": "Aviv MBP"
+                    },
+                    "sent_at": 1545064612,
+                    "sent_at_ms": 1545064612185,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 278,
+                            "hash": "P/9uyZpIAY+ihDbakvBSpCOBHYWTVLJDrOB7Aah7MG8="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 278,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "f6592c0e050967553c04b4e5f475da00",
+                        "username": "mikaela",
+                        "device_id": "445ad032c8e1b215a9f3b80f72fa5b18",
+                        "device_name": "op3-oos-20180621"
+                    },
+                    "sent_at": 1544965784,
+                    "sent_at_ms": 1544965784705,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 277,
+                            "hash": "cZKSwT5OywIr/Cs8KK2OYG25qCQIvM9OWBGspEymWU0="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 277,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "92cd3cb6e6ec01b496a0d7401bd52719",
+                        "username": "demimarie",
+                        "device_id": "af7119c4677cbf8358155f0040749f18",
+                        "device_name": "Qubes"
+                    },
+                    "sent_at": 1544572111,
+                    "sent_at_ms": 1544572111397,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 276,
+                            "hash": "/oK0Ycit+YKNa1J+EGk1G0ugimT/QBEldhZcZg0/1r8="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 276,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "ea8d8ed9f9548aa971a2141a05b01419",
+                        "username": "mamulsow",
+                        "device_id": "eea143a8347f91629702df6dbfe83118",
+                        "device_name": "Mobile Device"
+                    },
+                    "sent_at": 1544272483,
+                    "sent_at_ms": 1544272483321,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 275,
+                            "hash": "jRdUpIh5l2jfY1lS/+OhM3tUEQXK+NeoSRWzb7rtHPI="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 275,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "3ca3e1dda593409843528b756abe9a19",
+                        "username": "gaby_64",
+                        "device_id": "1feb90e383b19c13876db2b881daf518",
+                        "device_name": "Workstation"
+                    },
+                    "sent_at": 1544105636,
+                    "sent_at_ms": 1544105636441,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 274,
+                            "hash": "+bEGrZm9x6jkvpeqinXAT5TdNVVFxPaYWZkc1ggCwdk="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 274,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "9bf45594f82c0e9651235758e7068919",
+                        "username": "akashnil",
+                        "device_id": "4715096352b0c92f1681360b90b02f18",
+                        "device_name": "My Mac Device"
+                    },
+                    "sent_at": 1544105125,
+                    "sent_at_ms": 1544105125901,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 273,
+                            "hash": "wiNbx8kgWZBady1sQkzAXMGAHRF/1za6co7eowH90Vc="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 273,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "f55e3cbad02022664f5f57cda7b6cc19",
+                        "username": "jp79",
+                        "device_id": "8c63280c5b599b6d1393be35b95a6918",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1544038058,
+                    "sent_at_ms": 1544038058773,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 272,
+                            "hash": "Ozmu4CWlKOinL4xvBKuIb4EP59YmUEnLnPZ9ihIs5Ko="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 272,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "c0083affcad0bba56547ed249fad6819",
+                        "username": "stingray123",
+                        "device_id": "9752840202ccd87197bca108c4a23f18",
+                        "device_name": "MainPC"
+                    },
+                    "sent_at": 1543083831,
+                    "sent_at_ms": 1543083831777,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 271,
+                            "hash": "yNrYlpuvsWpK5BaxgYgxGjLQNiB6iorA2LPw2dFQBZk="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 271,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "09dffc7c980c4eda99fa4e9339870819",
+                        "username": "poppingtonic",
+                        "device_id": "cf5c4579aaa02e2bf4eaf2b067b69d18",
+                        "device_name": "cant0r"
+                    },
+                    "sent_at": 1542747828,
+                    "sent_at_ms": 1542747828618,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 270,
+                            "hash": "fYI98kzj0IFxF63troCZMuZXCzykMCWBhmutYOlTNGs="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 270,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "941ab397e11b136e54339fd5b2d48d19",
+                        "username": "hesher",
+                        "device_id": "0cc101ecf1be05adf11fbb59234ef218",
+                        "device_name": "mycomputer"
+                    },
+                    "sent_at": 1542673315,
+                    "sent_at_ms": 1542673315989,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "This makes sense. I wasn't getting the truncation part. In my mind given the ciphertext one could decrypt and successfully invert it everytime. But now I see that the truncation makes this not possible. Thanks man :+1:",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 269,
+                            "hash": "a4h4D3nvRj0/eoZ9rAbXXZtdN+jiMayhds80lrUMIHk="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 269,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1542668903,
+                    "sent_at_ms": 1542668903782,
+                    "content": {
+                        "type": "edit",
+                        "edit": {
+                            "messageID": 262,
+                            "body": "Hi @hesher, for a simple version of proof of space you can use sha256 or another hash function, truncating the output to the desired length"
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 268,
+                            "hash": "WG88ATbfMdWZaOUZXfrxcyBcZgtASqFNzJ35wCXjX8E="
+                        }
+                    ],
+                    "unread": false,
+                    "at_mention_usernames": [
+                        "hesher"
+                    ],
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 268,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1542654149,
+                    "sent_at_ms": 1542654149492,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "please PM me if it doesn't make sense hesher",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 267,
+                            "hash": "dyvLiXVYY6oCrLUy86TL5dkNYRONYGCkcW2RC/QF9hw="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 267,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1542654006,
+                    "sent_at_ms": 1542654006170,
+                    "content": {
+                        "type": "edit",
+                        "edit": {
+                            "messageID": 263,
+                            "body": "AES is suggested as it is more efficient. However it's not a one way hash function. To implement it using AES, you can do something like encrypt the input (x1, x2) using AES in cbc mode, where the key some public info like the ID of the plot, and then truncate to the desired y size (like 40 bits). The truncation at the end, makes it behave like a one way function. Given y (the truncated ciphertext), you can't decrypt, even knowing the AES key, which is public, since AES blocks are 128 bits"
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 266,
+                            "hash": "afbrdZVb+LlTVlSJy4d5Eb8WBIAA2+V8kgahMuQkKHE="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 266,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1542653986,
+                    "sent_at_ms": 1542653986348,
+                    "content": {
+                        "type": "edit",
+                        "edit": {
+                            "messageID": 263,
+                            "body": "AES is suggested as it is more efficient. However it's not a one way hash function. To implement it using AES, you can do something like encrypt the input (x1, x2) using AES in cbc mode, where the key some public info like the ID of the plot, and XOR the resulting ciphertexts together, and then truncate to the desired y size (like 40 bits). The truncation at the end, makes it behave like a one way function. Given y (the truncated ciphertext), you can't decrypt, even knowing the AES key, which is public, since AES blocks are 128 bits"
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 265,
+                            "hash": "F0UV7gqqQF3IC6v8P1Z7F0ZXOKYnfFVMD8Yteah+fhM="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 265,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1542653902,
+                    "sent_at_ms": 1542653902199,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "We are working on proof of space and eventually we will release the code and writeup.... There are a lot of changes from what is in the  current Beyond Hellman paper",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 264,
+                            "hash": "yncAc/y19HcTIfUDQWkfIxuOaAY8S5mu07BH7a7RKcQ="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 264,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1542653841,
+                    "sent_at_ms": 1542653841613,
+                    "content": {
+                        "type": "edit",
+                        "edit": {
+                            "messageID": 263,
+                            "body": "AES is suggested as it is more efficient. However it's not a one way hash function. To implement it using AES, you can do something like encrypt the input (x1, x2) using AES in cbc mode, where the key some public info like the ID of the plot, and XOR the resulting ciphertexts together, and then truncate to the desired y size (like 40 bits)."
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 263,
+                            "hash": "z7ZJTNf53dtTmM7vnCFmTt0AnPLtc/wNorjVceh5hiY="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 263,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1542653817,
+                    "sent_at_ms": 1542653817911,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "AES is suggested as it is more efficient. However it's not a one way hash function. To implement it using AES, you can do something like encrypt the input (x1, x2) using AES in cbc mode, where the key some public info like the ID of the plot, and then truncate to the desired y size (like 40 bits). The truncation at the end, makes it behave like a one way function. Given y (the truncated ciphertext), you can't decrypt, even knowing the AES key, which is public, since AES blocks are 128 bits",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 262,
+                            "hash": "BWSgh3B3sWL6fpeauY1QP6CxM5nUE6ietcwbMBCkXfA="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 262,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1542653678,
+                    "sent_at_ms": 1542653678174,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "Hi @hesher, for a simple version of proof of space you can use sha256 or another hash function, truncating the output to the desired length",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 261,
+                            "hash": "yzQzgPdL0B6a6OEKnLC+tgci3tFIyvMZc96U7YLjhq4="
+                        }
+                    ],
+                    "unread": false,
+                    "at_mention_usernames": [
+                        "hesher"
+                    ],
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 261,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "941ab397e11b136e54339fd5b2d48d19",
+                        "username": "hesher",
+                        "device_id": "0cc101ecf1be05adf11fbb59234ef218",
+                        "device_name": "mycomputer"
+                    },
+                    "sent_at": 1542473694,
+                    "sent_at_ms": 1542473694920,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "Recently i have been researching on the different types of Proofs that cryptocurrencies use in their consensus algorithms.\nI found the paper Beyond Hellman’s Time-Memory Trade-Offs where a construction that is suitable for Proof-of-Space is presented.\nI would like to try to implement my own version of this construction to run some tests. Unfortunately I was not able to grasp every concept\nof the paper as it is very technical. I would like to know what type of functions can we use to instaciate the f and g functions.\nThe paper presents a concrete proposal that uses AES but I did not understand it. Can someone here help me? ",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 260,
+                            "hash": "oe9pU6wNodbKQn2T7INAr5JlGMj2lVqRxfY1p4JsL4E="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 260,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "941ab397e11b136e54339fd5b2d48d19",
+                        "username": "hesher",
+                        "device_id": "0cc101ecf1be05adf11fbb59234ef218",
+                        "device_name": "mycomputer"
+                    },
+                    "sent_at": 1542473628,
+                    "sent_at_ms": 1542473628661,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 259,
+                            "hash": "d1cXgUnfZnb/WuPUowAhbkKGbC7MFAUkNCHKQzCwDCo="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 259,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "22fe373d42c0fc75aaf7769a54c47819",
+                        "username": "jeffrufino",
+                        "device_id": "bea504fa04a494d8af6c95356364fc18",
+                        "device_name": "WorkPC"
+                    },
+                    "sent_at": 1542182295,
+                    "sent_at_ms": 1542182295858,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 258,
+                            "hash": "fJvRelS4RSvBhLEqpVdrslO40cEToOHcy9XhdpuFHGg="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 258,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "cdc54083c63bb36e6f486d07df9d1319",
+                        "username": "soret",
+                        "device_id": "30b03958b9bc002f05f1cc3425876018",
+                        "device_name": "Kleines Haus"
+                    },
+                    "sent_at": 1542138908,
+                    "sent_at_ms": 1542138908608,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 257,
+                            "hash": "uCWUOIe6ZWUyeHr8vUnrX4cTcIUxXDttaTAPzqGsbXY="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 257,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "13e67aae312b3602ccd0bb0b9b78c119",
+                        "username": "achon",
+                        "device_id": "b74a8024013a88443ac789ba4f067b18",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1541877981,
+                    "sent_at_ms": 1541877981670,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 256,
+                            "hash": "4qhS3/A8+aLkKJiD7y+iIrJuKRQK7r9MopdPL0+cFAg="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 256,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "77ee15e89ef46ddb3a1bfd6a225dae19",
+                        "username": "matthewstalents",
+                        "device_id": "21f3158f78d8ba829fd2cdf70ad42418",
+                        "device_name": "My iOS Device"
+                    },
+                    "sent_at": 1541827246,
+                    "sent_at_ms": 1541827246014,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 255,
+                            "hash": "rbKUqn/o/IeW3+AxhcZfM14R5A0OGnEwhOl0qgQ7Ny4="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 255,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "308c477e9c541a4df316e7b2e7d02b19",
+                        "username": "keda",
+                        "device_id": "ceda5447b33d2a6b2615896d49582118",
+                        "device_name": "Keda"
+                    },
+                    "sent_at": 1541680692,
+                    "sent_at_ms": 1541680692282,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 254,
+                            "hash": "DZa98eCtoI8lIMNBlugRDZpuNlbsQwzKZBfTCBzWFBY="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 254,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "ba8666f1ec0677339762c70420038219",
+                        "username": "bulaiden",
+                        "device_id": "bfaedaa89af1515c461fbccca10f0018",
+                        "device_name": "bz phone"
+                    },
+                    "sent_at": 1540195665,
+                    "sent_at_ms": 1540195665272,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 253,
+                            "hash": "7RT0OQFmqZGJ9EZERVWHVMTA/kqUGvCDdWSeqIGss0U="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 253,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "dbf5b0bea4aa4bc73869a78f8219db19",
+                        "username": "gordongekko1982",
+                        "device_id": "c207f2cc1007abd4e4fb299cf8c5dd18",
+                        "device_name": "Sheng iphone"
+                    },
+                    "sent_at": 1539831277,
+                    "sent_at_ms": 1539831277959,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 252,
+                            "hash": "hcMJki5spOVock5z2d2K+vGLdAbOeQ4bMuZZRwnEPDE="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 252,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "42b071392f5de0f35559f955aec1d919",
+                        "username": "onemoretime1996",
+                        "device_id": "007c841ba4211cd95b456393cd94b518",
+                        "device_name": "Bill Blanke"
+                    },
+                    "sent_at": 1539630263,
+                    "sent_at_ms": 1539630263457,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 251,
+                            "hash": "XKDhxl4Go373hdNB4NlR02aknVAOQiacw7fjSJwHa+I="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 251,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "41fa006fbdacd0b27434a81677bdea19",
+                        "username": "yamachaaan",
+                        "device_id": "fac9ff7f522f9ee418c76c0435980818",
+                        "device_name": "yamachaaan'sMacBookPro"
+                    },
+                    "sent_at": 1539612753,
+                    "sent_at_ms": 1539612753866,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 250,
+                            "hash": "/erCHwMZ3Qk5vy4F6Ucpb0Sy1EOf8T35KkWHqA5CAc8="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 250,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "0d762e14a821799e6fac5e1121eca819",
+                        "username": "dragonproof",
+                        "device_id": "0ac0a48bff16f1a58de1ae6875422218",
+                        "device_name": "Mr M'cPro"
+                    },
+                    "sent_at": 1538799464,
+                    "sent_at_ms": 1538799464854,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 249,
+                            "hash": "/Z9CfcZPp+d/Z5nu3+mbTgY/bH7prpgvl52RGHuZ3CU="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 249,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "f8dd208c533ab74260392e0e8b866619",
+                        "username": "tayl0r",
+                        "device_id": "f313dcffa9d593059e82a6469a3fbb18",
+                        "device_name": "tsteil-work-i9"
+                    },
+                    "sent_at": 1538605683,
+                    "sent_at_ms": 1538605683911,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 248,
+                            "hash": "uo94u3QDy80FajcamclDVJUzq0fsKelHVY9hpnJIrDo="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 248,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "cb066fba6daa5f47ee0e1c5959669600",
+                        "username": "mikael",
+                        "device_id": "066fdd110dfab3609788e02851dbd518",
+                        "device_name": "mikaelf Pixel 2 XL"
+                    },
+                    "sent_at": 1538549506,
+                    "sent_at_ms": 1538549506650,
+                    "content": {
+                        "type": "leave"
+                    },
+                    "prev": [
+                        {
+                            "id": 247,
+                            "hash": "4Ib8gK9N0/rnMIdmAZYubqy5qCusO0IfZ2HkSf8M1Jk="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 247,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "645feb0b4faa9531975b1e7b64dc9119",
+                        "username": "skyhe",
+                        "device_id": "bdd8f1b000e62272555403b0712b1218",
+                        "device_name": "Macbook Pro"
+                    },
+                    "sent_at": 1537596006,
+                    "sent_at_ms": 1537596006853,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 246,
+                            "hash": "ATjify42ltEWDbLVgDO8uHqnFFMUA9T20Fhferh1dEg="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 246,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "f9ca2b6c200fd51970e7dca92afd0b19",
+                        "username": "leonidshamis",
+                        "device_id": "7a6f04424415af909c1f77bd7e383f18",
+                        "device_name": "WorkLaptop"
+                    },
+                    "sent_at": 1537502993,
+                    "sent_at_ms": 1537502993824,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 245,
+                            "hash": "3BSi2ouQmjmovBIiuvGl4i9JDKxALUdoPxZrT+PNzbM="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 245,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "6e9cf83138354b9cc5c3d4c9be09d019",
+                        "username": "aurmar",
+                        "device_id": "57c6ab6aae04280f1cee8bc714f8a018",
+                        "device_name": "aurmar"
+                    },
+                    "sent_at": 1535603144,
+                    "sent_at_ms": 1535603144801,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 244,
+                            "hash": "ni+esRKy1zn5nQG7dvATXE0YRz6irO2fsD7Rl2/epas="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 244,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "c84b74f0b4550fe836cdfe44eaa39019",
+                        "username": "peter_limbrick",
+                        "device_id": "b49a1f8e7bbfee6ac72df7742fa3e218",
+                        "device_name": "mightyhawk"
+                    },
+                    "sent_at": 1535525992,
+                    "sent_at_ms": 1535525992287,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 243,
+                            "hash": "CJd5YZyfTPCDIriYJV81rXpdMWYv2E41ll1pCF92Bu8="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 243,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "aee781f2e09e0e3cb553d016ee047219",
+                        "username": "dehenne",
+                        "device_id": "fcb1f48ac3a164bde8f3c6d405168718",
+                        "device_name": "Earth"
+                    },
+                    "sent_at": 1535087402,
+                    "sent_at_ms": 1535087402059,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 242,
+                            "hash": "e0E99RFPlcBkr/hZYJr3m4UtjeCW8XSe5OFmAr6KfOU="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 242,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "cd5292d6e255e5dbc890c71afe3e1d19",
+                        "username": "wrumble",
+                        "device_id": "6757d9342d8a214983d0c5098fd3cb18",
+                        "device_name": "Work Mac"
+                    },
+                    "sent_at": 1534959343,
+                    "sent_at_ms": 1534959343674,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 241,
+                            "hash": "SMvGVGUgPH5NBwMzxheR4PyS8S15D9AU/gUiY5EBjWs="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 241,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "86ced261967f71be26dd258a74959d19",
+                        "username": "ghillairet",
+                        "device_id": "512baa0cf4f278026e1d69ae9df9f118",
+                        "device_name": "iPhone"
+                    },
+                    "sent_at": 1534874544,
+                    "sent_at_ms": 1534874544663,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 240,
+                            "hash": "wewo+792HFFnc2HVrAc7LCHhmlcbfKQMJA0KRI0ALW4="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 240,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "a494c45d9dda9b4ae77cc85d56f57919",
+                        "username": "cr0n_dist0rti0n",
+                        "device_id": "4a30a9625ba01087d03ed696d2019218",
+                        "device_name": "cr0n-m0b"
+                    },
+                    "sent_at": 1534826699,
+                    "sent_at_ms": 1534826699526,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 239,
+                            "hash": "79OHusDXxqMCc2RG62y9tmC8aDoapjnT87afFlDZRXI="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 239,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "5f061fbcf7e896ab4d6dabb32670ca19",
+                        "username": "detoo",
+                        "device_id": "ebd50bae6fd1a1542001720768187d18",
+                        "device_name": "Detoo-iPhoneX"
+                    },
+                    "sent_at": 1534807929,
+                    "sent_at_ms": 1534807929490,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 238,
+                            "hash": "pfbFfqqnaRq5GUcicoNkXDBhPZfr1wThHD7SV/SlUoI="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 238,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "2271808dcf9c9903b756c652b212e519",
+                        "username": "jengo",
+                        "device_id": "77127fb0904ce96b195185320f101f18",
+                        "device_name": "Google Android"
+                    },
+                    "sent_at": 1534019924,
+                    "sent_at_ms": 1534019924371,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 237,
+                            "hash": "xtUDWZbNNd05marOA7V3VIhV+EIGPoDwdMQPDvfPD9Y="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 237,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "95e88f2087e480cae28f08d81554bc00",
+                        "username": "mikem",
+                        "device_id": "78752d7c9b402e946e02d8b95226d618",
+                        "device_name": "iphoneX"
+                    },
+                    "sent_at": 1533871691,
+                    "sent_at_ms": 1533871691662,
+                    "content": {
+                        "type": "leave"
+                    },
+                    "prev": [
+                        {
+                            "id": 236,
+                            "hash": "e4ABZHNkAK686FCX91aaRn57425AHokJ7Q07brfPCoM="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 236,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "95e88f2087e480cae28f08d81554bc00",
+                        "username": "mikem",
+                        "device_id": "78752d7c9b402e946e02d8b95226d618",
+                        "device_name": "iphoneX"
+                    },
+                    "sent_at": 1533871662,
+                    "sent_at_ms": 1533871662244,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 235,
+                            "hash": "IL5gs0Eu7crr/oajZQNXP/spf3S+Mhlk2xkr0DRghJQ="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 235,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1533865218,
+                    "sent_at_ms": 1533865218865,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "Hey",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 234,
+                            "hash": "BvzGrqKhrI50PCe7G728aPHMy5SE2XtEI5yMswdsCeQ="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 234,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "98546171fb5098f787187a0126396719",
+                        "username": "jonspock",
+                        "device_id": "c89dd15968aca60857fa18b3f866d218",
+                        "device_name": "HomeMac"
+                    },
+                    "sent_at": 1533862905,
+                    "sent_at_ms": 1533862905600,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 233,
+                            "hash": "Fv2MsPtxeuboQ8OUJnNU3JQ/xRG2jxdbimxY6YGPmEc="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 233,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "b19e63ad630de0e27f0d08f163643319",
+                        "username": "davehamill",
+                        "device_id": "e3589c4cfc94fea36def40196ee62d18",
+                        "device_name": "phone"
+                    },
+                    "sent_at": 1533404211,
+                    "sent_at_ms": 1533404211290,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 232,
+                            "hash": "fB6Q7HxE5lUdWCvIBWRES0B+01UXn+cEF1b2QJe9AyU="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 232,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "ab8ff0d0c5c1e27ad569bc9ca149aa19",
+                        "username": "mdoan",
+                        "device_id": "ca714d3f42cd46aa5ec103b515f1ff18",
+                        "device_name": "minhdoan_harmony"
+                    },
+                    "sent_at": 1532997983,
+                    "sent_at_ms": 1532997983820,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 231,
+                            "hash": "HpDvLvklJNp4AQ+FcuNeikPTM0w2fk/L3JCuVKhXQaE="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 231,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "6691c7eb48ac05e9732a6f2d3c6b7b19",
+                        "username": "winget",
+                        "device_id": "0868e559c21b3a119acafb4c294b0818",
+                        "device_name": "Evan's Phone"
+                    },
+                    "sent_at": 1532966147,
+                    "sent_at_ms": 1532966147680,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 230,
+                            "hash": "nPdhFRWJQxVXnREbgxaVdB2zLD/AYJrCYJXBuYHTpgM="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 230,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "24aa4acd97aa3eeaf4d421f62625e819",
+                        "username": "nzinfo",
+                        "device_id": "2b1b49cada5ce9606450c64eed5f6318",
+                        "device_name": "nzinfo-mix400"
+                    },
+                    "sent_at": 1532525823,
+                    "sent_at_ms": 1532525823803,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 229,
+                            "hash": "bmCOe2qn4/wDJlkHP9NG/DlEOYT559oSEyEQOV6CQwU="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 229,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "7b5d4411e18323778a0f0a96ebace119",
+                        "username": "luffyman",
+                        "device_id": "f8590b366ca21f47033a01ffab851518",
+                        "device_name": "gg-ubuntu"
+                    },
+                    "sent_at": 1532347903,
+                    "sent_at_ms": 1532347903184,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 228,
+                            "hash": "KaZx5BBZNf2TG0tiybK0zmpr8xsuvOH/tLYR8S7H9fw="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 228,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "3769940df554715f3782901db9915e19",
+                        "username": "krzpie",
+                        "device_id": "cf1e2eacea54721e0050f5e62602c218",
+                        "device_name": "krzpie's Mac"
+                    },
+                    "sent_at": 1531911240,
+                    "sent_at_ms": 1531911240609,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 227,
+                            "hash": "Lf3V0ceqkS7G61NahcebQZ7ruiZ4d6ypfabFQjiQ6IY="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 227,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "31372cdb76b20c44392e408ea7bf6919",
+                        "username": "nikhilsaraf",
+                        "device_id": "85bb7ac8704ad31be8404c9182229c18",
+                        "device_name": "MBP-Stellar"
+                    },
+                    "sent_at": 1531522233,
+                    "sent_at_ms": 1531522233543,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 226,
+                            "hash": "kK69Uiwy+7C8PVKBGIAq9ltdHQ4JR+pVxSE01D8kn+I="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 226,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "6e3fa5801fee8e2407bfc11dfa5c0c19",
+                        "username": "myoussefmir",
+                        "device_id": "e4a9a9c43d95026e9d39dae7d3741718",
+                        "device_name": "m yo"
+                    },
+                    "sent_at": 1531070476,
+                    "sent_at_ms": 1531070476749,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 225,
+                            "hash": "LJ6U7sjdhTDD+Wbc9n3AWgjFC2sr67UQ8wWwgSs+htE="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 225,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "d1d40475f2f35565bbdedf32499cca19",
+                        "username": "cameroncooper",
+                        "device_id": "b9c3ac022afe1d6cb66e24e8d0f56218",
+                        "device_name": "Macbook Pro"
+                    },
+                    "sent_at": 1531056927,
+                    "sent_at_ms": 1531056927367,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 224,
+                            "hash": "WoyzvkhwwjpirvzqXX6xv3SxCSqqk8d24PjIZwaQ05s="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 224,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "a72612dbc74abb7dc322fff23c908f19",
+                        "username": "chingizoid2",
+                        "device_id": "34ded088a97ac4e014451b5a16e69618",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1531031282,
+                    "sent_at_ms": 1531031282988,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 223,
+                            "hash": "LTzIVQ9mMC5FwuOFjFIxpL4XcNkDY9WRsC38SKYOIIA="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 223,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "9f5f50f6e8db6e1fe02aed8a0ce51219",
+                        "username": "davidcj",
+                        "device_id": "a7b00751c5ffb31cce62673829abf418",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1530807595,
+                    "sent_at_ms": 1530807595267,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 222,
+                            "hash": "MQc4gVkVwtgYVBdrGFruQ7b5zMO4x6KMeWj+60npVfo="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 222,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "7a7fc2c0bda136cfb3878d548c8b3219",
+                        "username": "rsm",
+                        "device_id": "d0b94d9727ce025ef6fe40b678748618",
+                        "device_name": "mbp"
+                    },
+                    "sent_at": 1530601068,
+                    "sent_at_ms": 1530601068529,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 221,
+                            "hash": "3SI+Z5KwJ3SgBV5hPbaUS080yXcjUT3kpnuemz3p/Ek="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 221,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "dc6d81e4ecb6723aa1ccda1ba1220919",
+                        "username": "investormrw",
+                        "device_id": "49bfd202cd08f3b63124914aa971b618",
+                        "device_name": "Work Computer"
+                    },
+                    "sent_at": 1530554146,
+                    "sent_at_ms": 1530554146019,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 220,
+                            "hash": "BegqupZdpyIPehoolPX6IlFYhBcwLHmINeWz43u8lDw="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 220,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "78ad500459e9fe6cef7cd01f92be5719",
+                        "username": "rusaito",
+                        "device_id": "c6785441f6e1ca041db86325a4beaa18",
+                        "device_name": "phone"
+                    },
+                    "sent_at": 1530380245,
+                    "sent_at_ms": 1530380245738,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 219,
+                            "hash": "s2y9fJs7EpMzu60od+S1souvqpyYr57XUwfPei8I9GI="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 219,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "a91bec5fc25ada419506026bb69c1019",
+                        "username": "dod1213",
+                        "device_id": "6c08effdba17c2c4fc0c4683136d0018",
+                        "device_name": "workc"
+                    },
+                    "sent_at": 1530178040,
+                    "sent_at_ms": 1530178040188,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 218,
+                            "hash": "7J8CJ0oQccZs6ek1RlIaz5sF3b8tOkv44P1BWVDnW3Q="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 218,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "130f802df3d995e50664364002c9c319",
+                        "username": "praveenballa",
+                        "device_id": "04c9baad821df4a1cb1f6443e8eba918",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1529962274,
+                    "sent_at_ms": 1529962274391,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 217,
+                            "hash": "26XNdn6qx6N59HHI2plH/GkMOgX0acWqeHtBCwqosnI="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 217,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "650992f8ab89a13a418bb70179d79f19",
+                        "username": "solodby",
+                        "device_id": "ec6596b35dacc5a1ba8acde48ae39818",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1529834905,
+                    "sent_at_ms": 1529834905519,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 216,
+                            "hash": "EGMY423yR5xD61P0Se1kOM6S4Rsa9pGemsJg0IUquIg="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 216,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "0ccaf86a947accb6024789b2916b2d19",
+                        "username": "sectorw",
+                        "device_id": "e6d18aaf3ac961e154acf322cf290018",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1529505013,
+                    "sent_at_ms": 1529505013174,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 215,
+                            "hash": "uESlRBsed/7ioPSXAK5wYIyfnpuhhzzoQp1S+lRKVuw="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 215,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "29bf6b4cdf9de4afceaffd3c1ae51019",
+                        "username": "chiachiang",
+                        "device_id": "e74860983ae4c51d72cccdf9a0fc5118",
+                        "device_name": "Mobile Device"
+                    },
+                    "sent_at": 1529325093,
+                    "sent_at_ms": 1529325093555,
+                    "content": {
+                        "type": "leave"
+                    },
+                    "prev": [
+                        {
+                            "id": 214,
+                            "hash": "7Dv0gw5Sv0QmuSX21R/ETHvqsdAnhLm2iGNBLR7y96k="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 214,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "29bf6b4cdf9de4afceaffd3c1ae51019",
+                        "username": "chiachiang",
+                        "device_id": "e74860983ae4c51d72cccdf9a0fc5118",
+                        "device_name": "Mobile Device"
+                    },
+                    "sent_at": 1529325086,
+                    "sent_at_ms": 1529325086557,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 213,
+                            "hash": "eWcxGQGd7F7GDZKRkb/z+EdDyT+JotYtGOvLNSorWP4="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 213,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "fc462f910967e53b6053cb1f88336319",
+                        "username": "klaviaadus",
+                        "device_id": "4dbf41dee73ecffb740dc752fb9d5418",
+                        "device_name": "Computer"
+                    },
+                    "sent_at": 1529278456,
+                    "sent_at_ms": 1529278456913,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 212,
+                            "hash": "OY9kA/EPlKeyWg2iXQnnA8n4TSfd8x1zuRGqHCCUcJQ="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 212,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "93dfa3223d7c14a5bcc3e7bbdf38f819",
+                        "username": "predicated",
+                        "device_id": "6abd3e9ff0bf191458a4e9c2f93e3318",
+                        "device_name": "ixchel"
+                    },
+                    "sent_at": 1529197150,
+                    "sent_at_ms": 1529197150193,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 211,
+                            "hash": "QZUuYDpXD2pifE60iAEW/mEFTrBK09PlPkYkQWYA9l4="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 211,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "ca5fe762ffd37a165644d11bf905c500",
+                        "username": "tylerdmace",
+                        "device_id": "c924d7eb972d04a522b99bce1f493718",
+                        "device_name": "escher"
+                    },
+                    "sent_at": 1527863177,
+                    "sent_at_ms": 1527863177557,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 210,
+                            "hash": "+3kw9RVss/Y3YoTm7/2CpDugI93BJOePrflFJiep4mo="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 210,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "a116ba7e3493b9ed4499cd2a7d5e7219",
+                        "username": "swlkr",
+                        "device_id": "0ad13aa079afc25112ac6209a6e48718",
+                        "device_name": "swlkrs macbook pro"
+                    },
+                    "sent_at": 1527780064,
+                    "sent_at_ms": 1527780064870,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 209,
+                            "hash": "UILfxCOqjtwrz8eOqgD6OIKiGpJsL+U17DqInuc4jQo="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 209,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "03c01fcc49af5c5149d1c613a6d13819",
+                        "username": "8non8",
+                        "device_id": "082a8e4226c97fc1f6157c86dce1df18",
+                        "device_name": "hp-office"
+                    },
+                    "sent_at": 1527497940,
+                    "sent_at_ms": 1527497940110,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 208,
+                            "hash": "+Ro8kAR+WA0JPTKRKSaJkRe0C5zAgWEfCJroo21/a6k="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 208,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "c13cdade903d09c6a11010c6cbbba219",
+                        "username": "drob2018",
+                        "device_id": "e9e58101cdf6aa1c9e3f51907107ea18",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1527431860,
+                    "sent_at_ms": 1527431860632,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 207,
+                            "hash": "QnSo1bJX1kLin+L7oR8A7VH3f1TrmE+rKyjbICThdkA="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 207,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "f26bc921d4a9be217e4a01bd95910719",
+                        "username": "codmaster22",
+                        "device_id": "6c1295161096e35a67c5804437509e18",
+                        "device_name": "Work Computer"
+                    },
+                    "sent_at": 1527186278,
+                    "sent_at_ms": 1527186278895,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 206,
+                            "hash": "ffLY3jpM1Ck1AWiTa2morUiaQdEHb+DWYGl20eVL90A="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 206,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "b1c379dd61712c6bcb7055e613205719",
+                        "username": "berryfarmer",
+                        "device_id": "78b403e7bbfc39a52fc20f6ab42ca918"
+                    },
+                    "sent_at": 1527181753,
+                    "sent_at_ms": 1527181753214,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 205,
+                            "hash": "iSesiBGVtsfvVCA27U92vxjRGMKsaLVZ+2hijXZhQ4s="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 205,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "63c82cfc0b4b0245098d0b596f5d0119",
+                        "username": "lemonforest",
+                        "device_id": "af6847d2fabab0aff2024866d342fd18",
+                        "device_name": "folkvangr"
+                    },
+                    "sent_at": 1527022234,
+                    "sent_at_ms": 1527022234040,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 204,
+                            "hash": "RiMohPI9IpnQSukAdbcmgOoJBOz1gGbBliUVmk1+2Ow="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 204,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "63c82cfc0b4b0245098d0b596f5d0119",
+                        "username": "lemonforest",
+                        "device_id": "af6847d2fabab0aff2024866d342fd18",
+                        "device_name": "folkvangr"
+                    },
+                    "sent_at": 1527022224,
+                    "sent_at_ms": 1527022224828,
+                    "content": {
+                        "type": "leave"
+                    },
+                    "prev": [
+                        {
+                            "id": 203,
+                            "hash": "h4VEBBRslSvdOPJbAdH3v0nlOioFLaMLz2/1tEiOOPA="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 203,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "2a75f0d124bfb320ac49ee0c8d920619",
+                        "username": "kekqx",
+                        "device_id": "04c487d5bdbc54668abe6c02e5217718",
+                        "device_name": "AMDx8"
+                    },
+                    "sent_at": 1527014217,
+                    "sent_at_ms": 1527014217960,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 202,
+                            "hash": "gpcnAOTR9wtp9VKVLi3h+2wU/XvKwAFJ2WL0tAs2QjE="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 202,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "f41d0dd604e5fdc5dd6c394b76b2e319",
+                        "username": "bartekborowiec",
+                        "device_id": "89062c378a15a7b021ee9ce9d85e3e18",
+                        "device_name": "macbook"
+                    },
+                    "sent_at": 1526751537,
+                    "sent_at_ms": 1526751537507,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 201,
+                            "hash": "qnh8OVDwTG/PXAg75ZqUDWY7zEz3hpWFbhHafFZaJNs="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 201,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "d1bc7945bd22b384771fbb92aed22219",
+                        "username": "gmtaylor",
+                        "device_id": "7ae257de1ad3306ce7c3f1d942824618",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1526743402,
+                    "sent_at_ms": 1526743402569,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 200,
+                            "hash": "qzFJfytlRpcnQASa8L6uq6kWfOwHQ7+rVeDATo9gmVM="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 200,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "943f7e559c2d9f81a62ddeeed2052519",
+                        "username": "dlacuran",
+                        "device_id": "497b6a5a4dc84f11fc668eb727f20718",
+                        "device_name": "iPhone"
+                    },
+                    "sent_at": 1526700487,
+                    "sent_at_ms": 1526700487635,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 199,
+                            "hash": "B12HYg083xc4ixRr8r6N3xa+t+l1kf+D44WTHB2okOI="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 199,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "45f4f4bb4ab143df40353335e2986b19",
+                        "username": "jonvan",
+                        "device_id": "21546029485d31ea05d2cfa3e3654a18",
+                        "device_name": "calder"
+                    },
+                    "sent_at": 1526593962,
+                    "sent_at_ms": 1526593962979,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 198,
+                            "hash": "h7qBp/Xtxk71HXJ74jbVBSj0RxjqJYySkefuZeuZhsI="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 198,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "26bf835e4ae1d1dd4baebebede26b719",
+                        "username": "pwindle",
+                        "device_id": "629df400b022b692e16068286742e718",
+                        "device_name": "desktop1"
+                    },
+                    "sent_at": 1526237370,
+                    "sent_at_ms": 1526237370721,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 197,
+                            "hash": "1wq/jqt3XxMxzb7msgMyZErC109H29xVrsF9Qpb/P/Q="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 197,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "8cfa0720616052e7c855fa257a6d8f19",
+                        "username": "holybao",
+                        "device_id": "f44052bcd8f30cfd766d756d3f727818",
+                        "device_name": "MacOS"
+                    },
+                    "sent_at": 1526024129,
+                    "sent_at_ms": 1526024129916,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 196,
+                            "hash": "d3ZV0uw3OQsCS9EvkyUu34OUNZmI79dm8GqushEwlZU="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 196,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "61c2ff6e26c954508116f9f8c3853919",
+                        "username": "ntowers",
+                        "device_id": "7adc1f296a62d6261a626cf0c5945518",
+                        "device_name": "Home Computer"
+                    },
+                    "sent_at": 1525901156,
+                    "sent_at_ms": 1525901156699,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 195,
+                            "hash": "nixFhjqqPcS9s2IP7FC80VousRqe3SeQGm5zdUiUUG8="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 195,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "d612467e7165600513d545f4b769bc00",
+                        "username": "hoffmang",
+                        "device_id": "5cb2e471c4f7bb3d0a4177356c9ae518",
+                        "device_name": "iPhone-Xb"
+                    },
+                    "sent_at": 1525834278,
+                    "sent_at_ms": 1525834278990,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 194,
+                            "hash": "M50wy7ijqjeIqqwb3QsXnvcrM+B8LFRs2+KOhwhq4Do="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 194,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "771d92fdc58029fb407f517f41509919",
+                        "username": "sorgente711",
+                        "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+                        "device_name": "Mac"
+                    },
+                    "sent_at": 1525832095,
+                    "sent_at_ms": 1525832095752,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 193,
+                            "hash": "TgPa6YjD7EKQzP5B9ObyW7Ntgyhq6roQ10Egthm+N8s="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 193,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "34a625e082b27db8f78ed7905354cf19",
+                        "username": "yrjocz",
+                        "device_id": "534efeb656ed997d22c4adc2e7694418",
+                        "device_name": "ilves"
+                    },
+                    "sent_at": 1525802109,
+                    "sent_at_ms": 1525802109247,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 192,
+                            "hash": "9agJB7sAjNVwQvwPBQiJHd5RqAII7IvRhWfrK0h8b/c="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 192,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "d2ca7a0575f89846b8a1d41eef8b9e19",
+                        "username": "tibbers",
+                        "device_id": "95d15f8808f1a465368764481db63b18"
+                    },
+                    "sent_at": 1525625391,
+                    "sent_at_ms": 1525625391519,
+                    "content": {
+                        "type": "text",
+                        "text": {
+                            "body": "？",
+                            "payments": null
+                        }
+                    },
+                    "prev": [
+                        {
+                            "id": 191,
+                            "hash": "yCJWKeyhsBU72x6Lx24k7A22q6OwZ99afJOYgIghivc="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 191,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "ef2e49961eddaa77094b45ed635cfc00",
+                        "username": "strib",
+                        "device_id": "b36bd3e5e8a0a6bc8934f50d2cd66d18",
+                        "device_name": "hooks"
+                    },
+                    "sent_at": 1525370984,
+                    "sent_at_ms": 1525370984735,
+                    "content": {
+                        "type": "leave"
+                    },
+                    "prev": [
+                        {
+                            "id": 190,
+                            "hash": "iqFHQzPK2mF4MHXOT9jC8gKn3La014fZKOs223V8CxE="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 190,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "ef2e49961eddaa77094b45ed635cfc00",
+                        "username": "strib",
+                        "device_id": "b36bd3e5e8a0a6bc8934f50d2cd66d18",
+                        "device_name": "hooks"
+                    },
+                    "sent_at": 1525370981,
+                    "sent_at_ms": 1525370981983,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 189,
+                            "hash": "ibXC8sY4z/T2DZcNWPlNZC7n/ezeyakg+2d+OshzRnw="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 189,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "05fcdfeee35b3c53d2a96e5146514119",
+                        "username": "nisenbaum",
+                        "device_id": "56a8386b2044a02c6ac3159d15a3c818",
+                        "device_name": "kind_of_mobile"
+                    },
+                    "sent_at": 1525200166,
+                    "sent_at_ms": 1525200166466,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 188,
+                            "hash": "Mb0iBZPBgkRtWOEsJTyfHG0hICLwMSjhCRMCN9sCOJY="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 188,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "f0f668bf610e5cf9f11d2aa50f924a19",
+                        "username": "seal",
+                        "device_id": "71fbe864fa175ce86dd9d69963138618",
+                        "device_name": "seal"
+                    },
+                    "sent_at": 1524738623,
+                    "sent_at_ms": 1524738623173,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 187,
+                            "hash": "Ih1od5ERFz0ipwx2MYcPJAC3v8Ff2pUGJcvkC+NVex8="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 187,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "e337a408fd1aa3cd3e0bd4996edc1a19",
+                        "username": "lazuline",
+                        "device_id": "09b18828323614ae7332ddaca8c0e318",
+                        "device_name": "Gin"
+                    },
+                    "sent_at": 1524514752,
+                    "sent_at_ms": 1524514752178,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 186,
+                            "hash": "wjYvle8FLviJJCEfoUGhV2jkE8k3t2twh30MZxXFY3E="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 186,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "60903ca43cc6e3e32ef5e1737fa6f019",
+                        "username": "lexbtc",
+                        "device_id": "8bdf496972856a8442f33f2f8c026118",
+                        "device_name": "macbook12"
+                    },
+                    "sent_at": 1524021317,
+                    "sent_at_ms": 1524021317199,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 185,
+                            "hash": "fVDU77zsUIDCGBBBfwicRCTOQviRcKYyoZ90m3bOHs8="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 185,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "f7f95959fc9a8f125f9920620a0bd919",
+                        "username": "knemt",
+                        "device_id": "726c5d252673bee276263004696ee918",
+                        "device_name": "bmp"
+                    },
+                    "sent_at": 1523367932,
+                    "sent_at_ms": 1523367932812,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 184,
+                            "hash": "9IdnSOR+x438UMrWiWPwChLMsIkARydxBmqOojCqivo="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 184,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "a52322c1c3b2420e8b3ca4d93289b700",
+                        "username": "gordonhall",
+                        "device_id": "c7598734a7582df7f13c06e954135f18",
+                        "device_name": "librem13"
+                    },
+                    "sent_at": 1522779335,
+                    "sent_at_ms": 1522779335254,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 183,
+                            "hash": "N0Xpl6aUqFmMAFJvjOn2Pp2P/oXIcwmUf7xNR5GbWgQ="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 183,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "2d906b04d1480d033c601545c33a8b19",
+                        "username": "ezredd",
+                        "device_id": "9efd388a32809b56d1c5c9b999483d18",
+                        "device_name": "EZIPhone"
+                    },
+                    "sent_at": 1522749657,
+                    "sent_at_ms": 1522749657869,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 182,
+                            "hash": "aivDb4qIS4r2DNyxs12s3yk5lu+8xBX2i1Lze0Yk1Ik="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 182,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "6a7b8fd2a7a49e3fa81414567a923a19",
+                        "username": "notstunna",
+                        "device_id": "8636a043a4c2a111b6a055658c25cd18",
+                        "device_name": "mobile"
+                    },
+                    "sent_at": 1522552461,
+                    "sent_at_ms": 1522552461945,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 181,
+                            "hash": "wZQhVyrgShWvu7gcOGxSVtjeiLnVcluWKlPg8PtfuBM="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 181,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "27c4fc1ea301df77e1610c558ff4ab19",
+                        "username": "alphaphi1343",
+                        "device_id": "5887730e9227aafdfc04823901ca5d18",
+                        "device_name": "phone"
+                    },
+                    "sent_at": 1522296223,
+                    "sent_at_ms": 1522296223898,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 180,
+                            "hash": "nKkfQ9yUU2a9lcXac9AEmeclTj3zgR6SNm7NICFnkmw="
+                        }
+                    ],
+                    "unread": false,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 180,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "c072ac5178ff12323fc9d42e8082ee19",
+                        "username": "behner",
+                        "device_id": "93bec9fc8d66db041f84d4f4abaa8318",
+                        "device_name": "workMBP"
+                    },
+                    "sent_at": 1522272319,
+                    "sent_at_ms": 1522272319560,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 179,
+                            "hash": "LqiNf1AQQvtTaCTsLOW7j6qod+7o/fEb2BNng6SHRrI="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 179,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "3acc537d228477fd751a01d2d79c5719",
+                        "username": "benmichael",
+                        "device_id": "67ff543cf7b03b5673dfb2c7afc51418",
+                        "device_name": "workywork"
+                    },
+                    "sent_at": 1522227693,
+                    "sent_at_ms": 1522227693012,
+                    "content": {
+                        "type": "join"
+                    },
+                    "prev": [
+                        {
+                            "id": 178,
+                            "hash": "XQqWhmNUbblXBc3UYjgRc2iIAWxapYiZ6sqhVYAlE7k="
+                        }
+                    ],
+                    "unread": false,
+                    "revoked_device": true,
+                    "channel_mention": "none"
+                }
+            },
+            {
+                "msg": {
+                    "id": 1,
+                    "channel": {
+                        "name": "chia_network.public",
+                        "public": false,
+                        "members_type": "team",
+                        "topic_type": "chat",
+                        "topic_name": "support"
+                    },
+                    "sender": {
+                        "uid": "295af46f507c858f3b24747ebc2e3700",
+                        "username": "ryan_singer",
+                        "device_id": "708caf5a0a34135c6f11849053b38c18",
+                        "device_name": "New MBP"
+                    },
+                    "sent_at": 1509058774,
+                    "sent_at_ms": 1509058774870,
+                    "content": {
+                        "type": "metadata",
+                        "metadata": {
+                            "conversationTitle": "support"
+                        }
+                    },
+                    "prev": [],
+                    "unread": false,
+                    "kbfs_encrypted": true,
+                    "channel_mention": "none"
+                }
+            }
+        ],
+        "pagination": {
+            "next": "AQ==",
+            "previous": "zQEk",
+            "num": 292,
+            "last": true
+        }
+    }
+}

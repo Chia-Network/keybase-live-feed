@@ -1,0 +1,494 @@
+example of text chat message:
+
+{
+    "type": "chat",
+    "source": "remote",
+    "msg": {
+        "id": 6,
+        "channel": {
+            "name": "chia_test_team",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "general"
+        },
+        "sender": {
+            "uid": "4a1b05eb5cb30bfcfaced5d0b409b419",
+            "username": "chiachatbot",
+            "device_id": "3c5bb9491b5563bd91284bc8284ac718",
+            "device_name": "phone"
+        },
+        "sent_at": 1553125154,
+        "sent_at_ms": 1553125154052,
+        "content": {
+            "type": "text",
+            "text": {
+                "body": "Test from online",
+                "payments": null
+            }
+        },
+        "prev": null,
+        "unread": false,
+        "channel_mention": "none"
+    },
+    "pagination": ...
+}
+
+file message:
+
+{
+    "type": "chat",
+    "source": "remote",
+    "msg": {
+        "id": 11,
+        "channel": {
+            "name": "chia_test_team",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "general"
+        },
+        "sender": {
+            "uid": "4a1b05eb5cb30bfcfaced5d0b409b419",
+            "username": "chiachatbot",
+            "device_id": "729adf7bc10c634dbe7854efa22b6118",
+            "device_name": "device"
+        },
+        "sent_at": 1553134167,
+        "sent_at_ms": 1553134167821,
+        "content": {
+            "type": "attachment",
+            "attachment": {
+                "object": {
+                    "filename": "package.json",
+                    "region": "us-east-1",
+                    "endpoint": "https://s3.amazonaws.com",
+                    "bucket": "kb-chat",
+                    "path": "0000fe496a2498ca65a2e1a165969b83fc9734f0787c2c5f7c9cf1589d3881ba/4a1b05eb5cb30bfcfaced5d0b409b419/ecfc0c2aa56935f1",
+                    "size": 343,
+                    "mimeType": "application/json",
+                    "encHash": "CiBjVJWN8WNp+REiBIo3TKV/0mA9/CBpIRP0Z0suiL8=",
+                    "key": "18NqRJiFffWlFebR9F/gZbYwS5kUPFDqH6pvuPBREzg=",
+                    "verifyKey": "GBTkzeT47YfVsS1duBNwOYBbViisiqMW4803/nDZU4c=",
+                    "title": "aaaaaaaa",
+                    "nonce": "yxriAf/zMaEETk3Z1RcsTA==",
+                    "metadata": {
+                        "assetType": 0
+                    },
+                    "tag": 0
+                },
+                "previews": null,
+                "metadata": null,
+                "uploaded": true
+            }
+        },
+        "prev": null,
+        "unread": false,
+        "channel_mention": "none"
+    },
+    "pagination": ...
+}
+
+exploding message:
+
+{
+    "type": "chat",
+    "source": "remote",
+    "msg": {
+        "id": 9,
+        "channel": {
+            "name": "chia_test_team",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "general"
+        },
+        "sender": {
+            "uid": "4a1b05eb5cb30bfcfaced5d0b409b419",
+            "username": "chiachatbot",
+            "device_id": "729adf7bc10c634dbe7854efa22b6118",
+            "device_name": "device"
+        },
+        "sent_at": 1553133763,
+        "sent_at_ms": 1553133763631,
+        "content": {
+            "type": "text",
+            "text": {
+                "body": "test exploding",
+                "payments": null
+            }
+        },
+        "prev": null,
+        "unread": false,
+        "is_ephemeral": true,
+        "etime": 1553738563689,
+        "has_pairwise_macs": true,
+        "channel_mention": "none"
+    },
+    "pagination": ...
+}
+
+example of reaction:
+
+{
+    "type": "chat",
+    "source": "remote",
+    "msg": {
+        "id": 8,
+        "channel": {
+            "name": "chia_test_team",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "general"
+        },
+        "sender": {
+            "uid": "4a1b05eb5cb30bfcfaced5d0b409b419",
+            "username": "chiachatbot",
+            "device_id": "729adf7bc10c634dbe7854efa22b6118",
+            "device_name": "device"
+        },
+        "sent_at": 1553133542,
+        "sent_at_ms": 1553133542436,
+        "content": {
+            "type": "reaction",
+            "reaction": {
+                "m": 7,
+                "b": ":+1:"
+            }
+        },
+        "prev": null,
+        "unread": false,
+        "channel_mention": "none"
+    },
+    "pagination": ...
+}
+
+change channel topic:
+
+{
+    "type": "chat",
+    "source": "remote",
+    "msg": {
+        "id": 9,
+        "channel": {
+            "name": "chia_test_team",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "abcdef"
+        },
+        "sender": {
+            "uid": "4a1b05eb5cb30bfcfaced5d0b409b419",
+            "username": "chiachatbot",
+            "device_id": "729adf7bc10c634dbe7854efa22b6118",
+            "device_name": "device"
+        },
+        "sent_at": 1553137144,
+        "sent_at_ms": 1553137144792,
+        "content": {
+            "type": "headline",
+            "headline": {
+                "headline": "something something"
+            }
+        },
+        "prev": null,
+        "unread": false,
+        "channel_mention": "none"
+    },
+    "pagination": {
+        "next": "09",
+        "previous": "09",
+        "num": 1,
+        "last": false
+    }
+}
+
+
+rename channel (test -> test1):
+
+{
+    "type": "chat",
+    "source": "remote",
+    "msg": {
+        "id": 7,
+        "channel": {
+            "name": "chia_test_team",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "test1"
+        },
+        "sender": {
+            "uid": "4a1b05eb5cb30bfcfaced5d0b409b419",
+            "username": "chiachatbot",
+            "device_id": "729adf7bc10c634dbe7854efa22b6118",
+            "device_name": "device"
+        },
+        "sent_at": 1553133869,
+        "sent_at_ms": 1553133869640,
+        "content": {
+            "type": "metadata",
+            "metadata": {
+                "conversationTitle": "test1"
+            }
+        },
+        "prev": null,
+        "unread": false,
+        "channel_mention": "none"
+    },
+    "pagination": ...
+}
+
+join channel (newchannel):
+
+{
+    "type": "chat",
+    "source": "remote",
+    "msg": {
+        "id": 2,
+        "channel": {
+            "name": "chia_test_team",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "newchannel"
+        },
+        "sender": {
+            "uid": "4a1b05eb5cb30bfcfaced5d0b409b419",
+            "username": "chiachatbot",
+            "device_id": "729adf7bc10c634dbe7854efa22b6118",
+            "device_name": "device"
+        },
+        "sent_at": 1553133985,
+        "sent_at_ms": 1553133985352,
+        "content": {
+            "type": "join"
+        },
+        "prev": null,
+        "unread": false,
+        "channel_mention": "none"
+    },
+    "pagination": ...
+}
+
+leave channel (support):
+
+{
+    "msg": {
+        "id": 248,
+        "channel": {
+            "name": "chia_network.public",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "support"
+        },
+        "sender": {
+            "uid": "cb066fba6daa5f47ee0e1c5959669600",
+            "username": "mikael",
+            "device_id": "066fdd110dfab3609788e02851dbd518",
+            "device_name": "mikaelf Pixel 2 XL"
+        },
+        "sent_at": 1538549506,
+        "sent_at_ms": 1538549506650,
+        "content": {
+            "type": "leave"
+        },
+        "prev": [
+            {
+                "id": 247,
+                "hash": "4Ib8gK9N0/rnMIdmAZYubqy5qCusO0IfZ2HkSf8M1Jk="
+            }
+        ],
+        "unread": false,
+        "channel_mention": "none"
+    }
+},
+
+edit message:
+
+{
+    "msg": {
+        "id": 269,
+        "channel": {
+            "name": "chia_network.public",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "support"
+        },
+        "sender": {
+            "uid": "771d92fdc58029fb407f517f41509919",
+            "username": "sorgente711",
+            "device_id": "0c014ee8656ad3bf92bff0ec621fc218",
+            "device_name": "Mac"
+        },
+        "sent_at": 1542668903,
+        "sent_at_ms": 1542668903782,
+        "content": {
+            "type": "edit",
+            "edit": {
+                "messageID": 262,
+                "body": "Hi @hesher, for a simple version of proof of space you can use sha256 or another hash function, truncating the output to the desired length"
+            }
+        },
+        "prev": [
+            {
+                "id": 268,
+                "hash": "WG88ATbfMdWZaOUZXfrxcyBcZgtASqFNzJ35wCXjX8E="
+            }
+        ],
+        "unread": false,
+        "at_mention_usernames": [
+            "hesher"
+        ],
+        "channel_mention": "none"
+    }
+},
+
+example of delete message:
+
+{
+    "msg": {
+        "id": 7168,
+        "channel": {
+            "name": "chia_network.public",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "general"
+        },
+        "sender": {
+            "uid": "5cb0987012ff4d2ac959ad6a92b3e219",
+            "username": "cyptogeek",
+            "device_id": "1bb12769bee16d5a8f8ea18c5093cd18",
+            "device_name": "stupendous newer brick"
+        },
+        "sent_at": 1547468719,
+        "sent_at_ms": 1547468719247,
+        "content": {
+            "type": "delete",
+            "delete": {
+                "messageIDs": [
+                    7165,
+                    7166
+                ]
+            }
+        },
+        "prev": [
+            {
+                "id": 7167,
+                "hash": "iqwseqEQVt7DWowcVza3SGydAtdG6kQSUy6KNbkcAYE="
+            }
+        ],
+        "unread": false,
+        "channel_mention": "none"
+    }
+},
+
+URL unfurl message (plus its preceding text message):
+
+{
+    "msg": {
+        "id": 7201,
+        "channel": {
+            "name": "chia_network.public",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "general"
+        },
+        "sender": {
+            "uid": "6691c7eb48ac05e9732a6f2d3c6b7b19",
+            "username": "winget",
+            "device_id": "6a070dad2170ea82f94791ab97eb0818",
+            "device_name": "Evan's Laptop"
+        },
+        "sent_at": 1548183225,
+        "sent_at_ms": 1548183225364,
+        "content": {
+            "type": "unfurl",
+            "unfurl": {
+                "unfurl": {
+                    "unfurl": {
+                        "unfurlType": 0,
+                        "generic": {
+                            "title": "2018 Hard Drive Reliability Stats by Manufacturer and Model",
+                            "url": "https://www.backblaze.com/blog/hard-drive-stats-for-2018/",
+                            "siteName": "Backblaze Blog | Cloud Storage \u0026 Cloud Backup",
+                            "image": {
+                                "filename": "header-hard-drive-stats-2018.jpg",
+                                "region": "us-east-1",
+                                "endpoint": "https://s3.amazonaws.com",
+                                "bucket": "kb-chat",
+                                "path": "0000d5728a92ac0c9b81ef0c2ec1859f30aa9f42abef112414eebc0f21a110f5/6691c7eb48ac05e9732a6f2d3c6b7b19/d1bcc014d5daeb14",
+                                "size": 38605,
+                                "mimeType": "image/jpeg",
+                                "encHash": "VPm+3uUDyPKy1s/IB62fVCx/b90dBsl/h6ih4u0Hwec=",
+                                "key": "n8TSDelr7VLZ1h08uWYLCtLjJFnVfs/47+nT3WX0nRU=",
+                                "verifyKey": "pdOjQjFaOcL0UdHUd///hYEYR6qaowiQc36T1glmMek=",
+                                "title": "",
+                                "nonce": "IdbTlY4YYAMER47aci+aLg==",
+                                "metadata": {
+                                    "assetType": 1,
+                                    "image": {
+                                        "width": 640,
+                                        "height": 344
+                                    }
+                                },
+                                "tag": 0
+                            },
+                            "description": "This review looks at the hard drive failure rates by make and model for 100,000+ disk drives in operation in our data centers."
+                        }
+                    },
+                    "url": "https://www.backblaze.com/blog/hard-drive-stats-for-2018/"
+                },
+                "messageID": 7200
+            }
+        },
+        "prev": [
+            {
+                "id": 7200,
+                "hash": "HrKIMm58+j3w/zuFkIWxD1mIymwFXNKP5BforicRLik="
+            }
+        ],
+        "unread": false,
+        "channel_mention": "none"
+    }
+},
+{
+    "msg": {
+        "id": 7200,
+        "channel": {
+            "name": "chia_network.public",
+            "public": false,
+            "members_type": "team",
+            "topic_type": "chat",
+            "topic_name": "general"
+        },
+        "sender": {
+            "uid": "6691c7eb48ac05e9732a6f2d3c6b7b19",
+            "username": "winget",
+            "device_id": "6a070dad2170ea82f94791ab97eb0818",
+            "device_name": "Evan's Laptop"
+        },
+        "sent_at": 1548183223,
+        "sent_at_ms": 1548183223186,
+        "content": {
+            "type": "text",
+            "text": {
+                "body": "https://www.backblaze.com/blog/hard-drive-stats-for-2018/",
+                "payments": null
+            }
+        },
+        "prev": [
+            {
+                "id": 7199,
+                "hash": "LjCFsOA+RFtf4dJFZXXnQYO5B7ABVqF147lbmxRc7V8="
+            }
+        ],
+        "unread": false,
+        "channel_mention": "none"
+    }
+},

@@ -1,0 +1,14 @@
+.reaction {
+    border: 1px solid #E7E7E7;
+    border-radius: 10px;
+    margin-left: 0.5rem;
+    margin-bottom: 0.2rem;
+    padding: 0.7rem;
+    text-align: center;
+}
+
+.reaction-contents {
+    font-weight: bold;
+    display: inline-block;
+    margin-left: 0.5rem;
+}

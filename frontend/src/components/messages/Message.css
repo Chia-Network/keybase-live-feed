@@ -1,0 +1,42 @@
+.message {
+    padding: 10px 40px;
+    word-break: break-all;
+}
+
+.message-header {
+    padding-bottom: 5px;
+}
+
+.message-pic-container {
+    padding: 0;
+}
+
+.message-profile-pic {
+    border-radius: 100%;
+    margin-right: 15px;
+}
+
+.message-body {
+    padding-left: 0;
+    padding-bottom: 5px;
+}
+
+.message-username {
+    display: inline-block;
+    padding-right: 10px;
+    font-weight: bold;
+}
+
+.message-timestamp {
+    display: inline-block;
+    font-style: italic;
+    font-size: 80%;
+    padding: 0 5px;
+}
+
+.message-edited {
+    padding-left: 0;
+    text-align: left;
+    color: gray;
+    margin-top: -1rem; /* To get rid of margin from React-Markdown */
+}

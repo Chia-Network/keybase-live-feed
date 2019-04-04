@@ -1,0 +1,45 @@
+
+.App {
+  border: 1px solid #E7E7E7;
+  font-family: 'HCo Gotham SSm';
+  width: 100vw;
+  height: 100vh;
+}
+
+header {
+  background-color: #F5F5F5;
+  z-index: 1;
+  border-top: 4px solid #469D62;
+  border-bottom: 1px solid #E7E7E7;
+  font-size: 16px;
+  padding: 0 1rem;
+}
+
+.team-name {
+  padding: 1rem;
+  padding-left: 2rem;
+  text-align: center;
+}
+
+.channel-name {
+  font-weight: bold;
+  text-align: center;
+}
+
+.channel-name select {
+  margin: 1rem;
+  font-size: inherit;
+  font-weight: inherit;
+  border: none;
+}
+
+.members-count {
+  text-align: center;
+  color: #469D62;
+  padding: 1rem 2rem;
+  font-size: 12px;
+}
+
+.messages-container {
+  overflow-y: auto;
+}
