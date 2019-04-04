@@ -211,3 +211,10 @@ gcloud container clusters delete keybase-live-feed
 
 # remove DNS entry for keybase.chia.net
 ```
+
+License
+-------
+
+Copyright 2019 [Chia Network](https://www.chia.net/). The source code for this library is available online at [GitHub](https://github.com/Chia-Network/keybase-live-feed).
+
+Keybase Live Feed is made available under the Apache 2.0 license. See `LICENSE` in the project's root directory for more information.
