@@ -6,7 +6,7 @@ Overview
 
 Backend and frontend services for showing the contents of a Keybase team on your website. It looks like this:
 
-![Screenshot of Chia community page with Keybase Live Feed integrated](screenshot.png)
+![keybase screenshot](https://i.ibb.co/TMhJ8j7/keybase.png)
 
 (from [Chia Network](https://www.chia.net/community/))
 
