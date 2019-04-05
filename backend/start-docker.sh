@@ -1,5 +1,5 @@
 CHIA_KEYBASE_USERNAME=chiachatbot
-CHIA_KEYBASE_PAPERKEY="margin occur hole flat judge ranch exhaust strong aim stuff busy empty patch"
+CHIA_KEYBASE_PAPERKEY="nope"
 
 # start Keybase service
 keybase service &
