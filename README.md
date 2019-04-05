@@ -6,7 +6,7 @@ Overview
 
 Backend and frontend services for showing the contents of a Keybase team on your website. It looks like this:
 
-![keybase screenshot](https://i.ibb.co/tBhyqGt/screenshot.png)
+![keybase screenshot](screenshot.png)
 
 (from [Chia Network](https://www.chia.net/community/))
 
