@@ -4,7 +4,7 @@
   "private": true,
   "dependencies": {
     "emoji-datasource": "^5.0.1",
-    "moment": "2.27.0",
+    "moment": "2.29.2",
     "react": "^16.8.4",
     "react-bootstrap": "1.2.2",
     "react-dom": "^16.8.4",
